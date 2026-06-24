@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Muhammad%20Areeb%20Mujahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Muhammad%20Areeb%20Mujahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descAlign=50" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Full+Stack+Applications;Exploring+Cybersecurity+%26+Automation;CS+Student+%40+IoBM+Karachi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Full+Stack+Applications;Exploring+AI+%26+Automation;CS+Student+%40+IoBM+Karachi)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,11 +33,11 @@ name        : Muhammad Areeb Mujahid
 role        : Full Stack Developer & AI Enthusiast
 location    : Karachi, Pakistan
 education   : BS Computer Science — IoBM (2024–Present)
-focus       : Web Development · AI · Automation
+focus       : Web Development · Artificial Intelligence · Automation
 status      : Open to internships and freelance collaborations
 ```
 
-I'm a Computer Science undergraduate at the **Institute of Business Management (IoBM)**, Karachi, with a hands-on approach to building robust web applications and automation tooling. I've worked with Java-based full-stack architectures, browser automation, and email processing systems in real freelance environments. My parallel interest in **Cybersecurity** drives me to think about what I build through the lens of resilience, security, and reliability.
+I'm a Computer Science undergraduate at the **Institute of Business Management (IoBM)**, Karachi, with a hands-on approach to building robust full-stack web applications and automation tooling. I've worked with Java-based full-stack architectures, Spring Boot, React, database-driven systems, and browser automation in real freelance and academic environments. My parallel interest in **Artificial Intelligence** drives me to explore how intelligent systems can be integrated into practical, real-world applications.
 
 **Open To:** Internships · Freelance Projects · Open Source Collaboration · Entry-Level Engineering Roles
 
@@ -51,10 +51,10 @@ I'm a Computer Science undergraduate at the **Institute of Business Management (
 [![Languages](https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,js,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=java,maven,mysql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,maven,mysql&theme=dark)](https://skillicons.dev)
 
 ### Tooling & DevOps
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,selenium&theme=dark)](https://skillicons.dev)
@@ -63,23 +63,35 @@ I'm a Computer Science undergraduate at the **Institute of Business Management (
 
 ---
 
-## `$ skills --domain cybersecurity`
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| Network Security | ⭐ Intermediate | TCP/IP, SMTP, protocol-level understanding |
-| Web Security | ⭐ Intermediate | Secure web application design principles |
-| Automation & Scripting | ⭐ Proficient | Java Selenium, browser automation |
-| Security Certifications | ⭐⭐ Proficient | Google Cybersecurity Professional Certificate |
-| Threat Awareness | ⭐ Intermediate | Cybersecurity fundamentals, attack vectors |
-
-</div>
-
----
-
 ## `$ git log --projects`
+
+<details>
+<summary><b>📁 Payroll Management System</b></summary>
+
+<br/>
+
+A full-stack, database-driven web application that digitalizes the entire payroll process for small to mid-sized organizations — replacing manual spreadsheet workflows entirely.
+
+| Attribute | Details |
+|-----------|---------|
+| **Stack** | MySQL 8.0 · Spring Boot (Java) · React (Vite) · Tailwind CSS |
+| **Deployment** | Aiven · Render · Vercel |
+| **Architecture** | Full-stack client–server with REST API |
+| **Roles** | SuperAdmin (manages Admins) · Admin (handles all payroll ops) |
+| **Database** | MySQL triggers, 10 stored procedures, integrity constraints |
+| **Features** | Payslip generation, PDF download, payslip history, employee reports |
+| **Completed** | May 2026 |
+| **Repository** | [View on GitHub](https://github.com/Areeb-16) |
+
+Built as a semester project for the Introduction to Database Management Systems course. The system supports employee & department management, allowance and deduction tracking, and monthly payslip generation with auto-calculated net salary. MySQL triggers handle salary computation automatically — the application never computes salary manually. Constraints prevent duplicate payslips, invalid salaries, and data inconsistencies.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</details>
 
 <details>
 <summary><b>📁 Student University Course Registration Portal</b></summary>
@@ -95,9 +107,10 @@ A full-featured university registration system enabling students to sign up, aut
 | **Core Feature** | Student record management with efficient data structures |
 | **Security** | Login/authentication system |
 | **Performance** | Optimized data retrieval via purpose-built data structures |
+| **Completed** | December 2025 |
 | **Repository** | [View on GitHub](https://github.com/Areeb-16) |
 
-Built during December 2025, this project demonstrates command over object-oriented design, efficient data structure selection, and clean UI implementation using Java Swing. The authentication flow, data management layer, and record retrieval system were implemented from scratch, showcasing a strong understanding of backend logic without relying on external frameworks.
+Built during December 2025, this project demonstrates command over object-oriented design, efficient data structure selection, and clean UI implementation using Java Swing. The authentication flow, data management layer, and record retrieval system were implemented from scratch.
 
 </details>
 
@@ -114,10 +127,10 @@ A browser automation utility that navigates live web environments, targets speci
 | **Architecture** | Scripted automation pipeline |
 | **Core Feature** | Automated navigation and file acquisition |
 | **Impact** | Significant reduction in manual effort for repetitive tasks |
-| **Use Case** | Batch file collection from web sources |
+| **Completed** | January 2026 |
 | **Repository** | [View on GitHub](https://github.com/Areeb-16) |
 
-Delivered in January 2026, this tool reflects practical experience working with real browser environments and live web pages. It reinforced fundamentals in Selenium configuration, element targeting strategies, and writing reliable automation scripts that hold up against dynamic web content.
+Delivered in January 2026, this tool reflects practical experience working with real browser environments and live web pages. It reinforced fundamentals in Selenium configuration, element targeting strategies, and writing reliable automation scripts.
 
 </details>
 
@@ -133,11 +146,11 @@ A production-grade web application with a Java backend configured to receive and
 | **Stack** | Java · JavaMail API · SMTP · HTML · CSS |
 | **Architecture** | Full-stack client–server application |
 | **Core Feature** | Server-side email ingestion via SMTP |
-| **Security** | Configured mail server with controlled access |
 | **Frontend** | Responsive interface styled independently |
+| **Completed** | November 2025 |
 | **Repository** | [View on GitHub](https://github.com/Areeb-16) |
 
-Delivered as part of a freelance engagement with Tooling Technologies & Services (November 2025). This project required independent delivery of both the backend email infrastructure and a polished frontend — demonstrating ownership of the full engineering stack in a professional context.
+Delivered as part of a freelance engagement with Tooling Technologies & Services. This project required independent delivery of both the backend email infrastructure and a polished frontend — demonstrating full-stack ownership in a professional context.
 
 </details>
 
@@ -245,18 +258,18 @@ Independently scoped, designed, and delivered a full-stack web application for a
 current_focus:
   learning:
     - Advanced Data Structures & Algorithms
-    - Cybersecurity fundamentals (post-Google cert)
+    - Artificial Intelligence & Machine Learning fundamentals
     - Backend architecture with Java Spring Boot
   building:
     - Personal portfolio website
-    - More automation tooling projects
+    - AI-integrated web applications
     - Expanding into REST API development
   exploring:
-    - Ethical hacking & penetration testing
+    - AI/ML integration with full-stack apps
     - Cloud fundamentals (AWS / GCP)
     - Contributing to open source
   open_to:
-    - Internships in Software Engineering or Cybersecurity
+    - Internships in Software Engineering or AI
     - Freelance web development projects
     - Open source collaboration
     - Mentorship and peer learning
@@ -270,7 +283,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-mujahidareeb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujahidareeb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Areeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Areeb-16-b8967a240)
-[![GitHub](https://img.shields.io/badge/GitHub-@muhammad--areeb--mujahid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areeb-16)
+[![GitHub](https://img.shields.io/badge/GitHub-@Areeb--16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areeb-16)
 [![Phone](https://img.shields.io/badge/Phone-+92%20316%201110681-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923161110681)
 
 </div>
