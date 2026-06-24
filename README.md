@@ -30,10 +30,10 @@
 
 ```yaml
 name        : Muhammad Areeb Mujahid
-role        : Full Stack Developer & Cybersecurity Enthusiast
+role        : Full Stack Developer & AI Enthusiast
 location    : Karachi, Pakistan
 education   : BS Computer Science — IoBM (2024–Present)
-focus       : Web Development · Cybersecurity · Automation
+focus       : Web Development · AI · Automation
 status      : Open to internships and freelance collaborations
 ```
 
@@ -69,11 +69,11 @@ I'm a Computer Science undergraduate at the **Institute of Business Management (
 
 | Domain | Proficiency | Details |
 |--------|-------------|---------|
-| Network Security | ⭐⭐⭐ Intermediate | TCP/IP, SMTP, protocol-level understanding |
-| Web Security | ⭐⭐⭐ Intermediate | Secure web application design principles |
-| Automation & Scripting | ⭐⭐⭐⭐ Proficient | Java Selenium, browser automation |
-| Security Certifications | ⭐⭐⭐⭐ Proficient | Google Cybersecurity Professional Certificate |
-| Threat Awareness | ⭐⭐⭐ Intermediate | Cybersecurity fundamentals, attack vectors |
+| Network Security | ⭐ Intermediate | TCP/IP, SMTP, protocol-level understanding |
+| Web Security | ⭐ Intermediate | Secure web application design principles |
+| Automation & Scripting | ⭐ Proficient | Java Selenium, browser automation |
+| Security Certifications | ⭐⭐ Proficient | Google Cybersecurity Professional Certificate |
+| Threat Awareness | ⭐ Intermediate | Cybersecurity fundamentals, attack vectors |
 
 </div>
 
